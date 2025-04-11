@@ -94,12 +94,12 @@ hit → hot → dot → dog → cog
 
 2. Run the game:
    ```bash
-   python i222493_AbdulMoiz.py
+   python Word-Ladder-Game.py
    ```
 
 ## 📄 File Structure
 
-- `i222493_AbdulMoiz.py`: Main Python script with all game logic.
+- `.py`: Main Python script with all game logic.
 
 ## 📧 Contact
 
